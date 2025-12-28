@@ -1,7 +1,6 @@
 """
 Utility functions for data scraping and processing.
 """
-import os
 import logging
 from pathlib import Path
 
